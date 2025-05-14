@@ -1,3 +1,18 @@
+# =============================================================================
+#  Title        : multiprocessing.py
+#  Description  : This program performs matrix-based decryption using 
+#                 multi-threaded matrix evolution and character rotation.
+#                 It reads an encrypted input string, evolves a matrix based
+#                 on cellular automaton-like rules, and decrypts characters.
+#  Author       : Halmuhammet Muhamedorazov
+#  Date         : 05/13/2024
+#  Version      : 1.0
+#  Usage        : python matrix_decryption.py -i <input_file> -o <output_file>
+#  Notes        : Requires Python 3.x. Uses multiprocessing for performance.
+#  Python Ver.  : Python 3.x
+# =============================================================================
+
+
 # import necessary modules
 import math
 from multiprocessing import Pool
