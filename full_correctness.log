@@ -1,0 +1,16 @@
+Test Run Results:
+    full_short - 1 process:             Correct
+    full_short - 2 processes:           Correct
+    full_short - 4 processes:           Correct
+    full_short - 8 processes:           Correct
+    full_short - 16 processes:          Correct
+    full_short - 32 processes:          Correct
+    full_medium - 1 process:            Correct
+    full_medium - 2 processes:          Correct
+    full_medium - 4 processes:          Correct
+    full_medium - 8 processes:          Correct
+    full_medium - 16 processes:         Correct
+    full_medium - 32 processes:         Correct
+    full_long - 9 processes:            Correct
+    full_long - 18 processes:           Correct
+    full_long - 36 processes:           Correct

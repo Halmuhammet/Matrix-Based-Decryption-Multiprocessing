@@ -1,0 +1,7 @@
+Test Run Results:
+    parallel_short - 1 process:         Correct
+    parallel_short - 2 processes:       Correct
+    parallel_short - 4 processes:       Correct
+    parallel_short - 8 processes:       Correct
+    parallel_short - 16 processes:      Correct
+    parallel_short - 32 processes:      Correct

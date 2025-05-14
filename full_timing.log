@@ -1,0 +1,16 @@
+Run Time Results:
+    full_short - 1 process:             2.976674889 seconds
+    full_short - 2 processes:           1.514866731 seconds
+    full_short - 4 processes:           1.176092240 seconds
+    full_short - 8 processes:           1.006487178 seconds
+    full_short - 16 processes:          1.285802850 seconds
+    full_short - 32 processes:          2.010139024 seconds
+    full_medium - 1 process:            133.252647453 seconds
+    full_medium - 2 processes:          77.615242117 seconds
+    full_medium - 4 processes:          50.855132864 seconds
+    full_medium - 8 processes:          42.877418163 seconds
+    full_medium - 16 processes:         50.555909155 seconds
+    full_medium - 32 processes:         79.072062935 seconds
+    full_long - 9 processes:            3460.622850855 seconds
+    full_long - 18 processes:           4318.337035291 seconds
+    full_long - 36 processes:           7104.167108600 seconds

@@ -1,0 +1,7 @@
+Run Time Results:
+    parallel_short - 1 process:         2.878886469 seconds
+    parallel_short - 2 processes:       1.440039571 seconds
+    parallel_short - 4 processes:       1.364972016 seconds
+    parallel_short - 8 processes:       1.025960124 seconds
+    parallel_short - 16 processes:      1.295321617 seconds
+    parallel_short - 32 processes:      2.040436942 seconds
