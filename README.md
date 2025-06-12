@@ -16,11 +16,11 @@ The process supports **parallel computation** using Python’s `multiprocessing`
 
 ## 🧪 Features
 
-- 🔁 100 iterations of matrix evolution based on neighbors.
-- 🧮 Prime and even sum rules determine the next matrix state.
-- 🔐 Rotation-based decryption using a 95-character rotation string.
-- 🚀 Parallel processing of matrix slices.
-- ✅ Validates input/output paths.
+-  100 iterations of matrix evolution based on neighbors.
+-  Prime and even sum rules determine the next matrix state.
+-  Rotation-based decryption using a 95-character rotation string.
+-  Parallel processing of matrix slices.
+-  Validates input/output paths.
 
 ---
 
